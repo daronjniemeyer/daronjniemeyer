@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: business@dj-niemeyer.de
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In some programming languages like C, arrays are indexed starting from 0, but languages like Fortran index arrays starting from 1.
+- ⚡ Fun fact: In some programming languages like C, arrays are indexed starting from 0, but languages like Fortran index arrays are indexed starting from 1.
 
 <!---
 daronjniemeyer/daronjniemeyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
