@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27281713) 
-
+[![Stack Overflow](https://img.shields.io/badge/daily.dev-black?logo=dailydotdev&logoColor=white)](https://app.daily.dev/djniemeyer?userid=JdT6Fefz5mCr4LDyfL0Kz&cid=share_profile)
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat&logo=fortran&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 # 📊 GitHub Stats:
